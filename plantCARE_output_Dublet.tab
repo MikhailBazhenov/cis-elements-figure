@@ -1,0 +1,77 @@
+PlantCARE_11551	CAAT-box	CCAAT	11	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	12	4	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	112	4	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	119	4	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAAT	121	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	183	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	248	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	370	4	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CCAAT	438	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	475	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	506	4	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	511	4	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	546	4	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	605	4	+	Nicotiana glutinosa	
+PlantCARE_11551	DRE1	ACCGAGA	235	7	-	Zea mays	
+PlantCARE_11551	TGA-element	AACGAC	882	6	+	Brassica oleracea	auxin-responsive element
+PlantCARE_11551	Unnamed__4	CTCC	99	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	200	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	575	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	666	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	670	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	691	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	694	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	728	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	731	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	734	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	737	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	769	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	772	4	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	803	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	811	4	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	815	4	-	Petroselinum hortense	
+PlantCARE_11551	I-box	cCATATCCAAT	563	10	+	Flaveria trinervia	part of a light responsive element
+PlantCARE_11551	Myb	TAACTG	320	6	-	Arabidopsis thaliana	
+PlantCARE_11551	DRE core	GCCGAC	432	6	-	Arabidopsis thaliana	
+PlantCARE_11551	DRE core	GCCGAC	745	6	-	Arabidopsis thaliana	
+PlantCARE_11551	TGACG-motif	TGACG	129	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	TGACG-motif	TGACG	154	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	TGACG-motif	TGACG	372	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	Gap-box	CAAATGAA(A/G)A	243	9.5	-	Arabidopsis thaliana	part of a light responsive element
+PlantCARE_11551	CGTCA-motif	CGTCA	129	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	CGTCA-motif	CGTCA	154	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	CGTCA-motif	CGTCA	372	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	Sp1	GGGCGG	843	6	+	Oryza sativa	light responsive element
+PlantCARE_11551	G-box	CACGTC	150	6	-	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_11551	G-box	CACGAC	330	6	+	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_11551	MYC	CATGTG	36	6	-	Arabidopsis thaliana	
+PlantCARE_11551	MYC	CATTTG	247	6	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	129	5	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	154	5	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	372	5	+	Arabidopsis thaliana	
+PlantCARE_11551	CCGTCC motif	CCGTCC	417	6	-	Nicotiana tabacum	
+PlantCARE_11551		motif_sequence	296	4	-	organism	short_function
+PlantCARE_11551		motif_sequence	347	4	-	organism	short_function
+PlantCARE_11551		motif_sequence	456	4	-	organism	short_function
+PlantCARE_11551		motif_sequence	484	4	+	organism	short_function
+PlantCARE_11551		motif_sequence	686	4	+	organism	short_function
+PlantCARE_11551		motif_sequence	785	4	-	organism	short_function
+PlantCARE_11551		motif_sequence	815	4	-	organism	short_function
+PlantCARE_11551		motif_sequence	875	4	-	organism	short_function
+PlantCARE_11551	TGA-box	TGACGTAA	129	8	+	Glycine max	part of an auxin-responsive element
+PlantCARE_11551	CCGTCC-box	CCGTCC	417	6	-	Petroselinum hortense	
+PlantCARE_11551	CAT-box	GCCACT	384	6	-	Arabidopsis thaliana	cis-acting regulatory element related to meristem expression
+PlantCARE_11551	TATA-box	TATATA	77	6	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	ATATAA	78	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	TATA	79	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	TATA	195	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	ABRE	ACGTG	151	5	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_11551	ABRE	GCCGCGTGGC	790	9	-	Oryza sativa	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_11551	TCCC-motif	TCTCCCT	813	7	-	Spinacia oleracea	part of a light responsive element
+PlantCARE_11551	STRE	AGGGG	672	5	+	Arabidopsis thaliana	
+PlantCARE_11551	STRE	AGGGG	707	5	-	Arabidopsis thaliana	
+PlantCARE_11551	AT~TATA-box	TATATA	77	6	+	Arabidopsis thaliana	
+PlantCARE_11551	Unnamed__1	CGTGG	329	5	-	Zea mays	
+PlantCARE_11551	Unnamed__1	CGTGG	799	5	-	Zea mays	
+PlantCARE_11551	W box	TTGACC	250	6	+	Arabidopsis thaliana	
+PlantCARE_11551	A-box	CCGTCC	417	6	-	Petroselinum crispum	cis-acting regulatory element

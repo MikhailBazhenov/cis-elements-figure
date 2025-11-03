@@ -1,0 +1,77 @@
+PlantCARE_11551	CAAT-box	CCAAT	11	5.0	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	12	4.0	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	112	4.0	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	119	4.0	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAAT	121	5.0	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	183	5.0	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	248	5.0	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	382	4.0	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CCAAT	450	5.0	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAAT	487	5.0	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_11551	CAAT-box	CAAT	518	4.0	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	523	4.0	+	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	558	4.0	-	Nicotiana glutinosa	
+PlantCARE_11551	CAAT-box	CAAT	617	4.0	+	Nicotiana glutinosa	
+PlantCARE_11551	DRE1	ACCGAGA	235	7.0	-	Zea mays	
+PlantCARE_11551	TGA-element	AACGAC	894	6.0	+	Brassica oleracea	auxin-responsive element
+PlantCARE_11551	Unnamed__4	CTCC	99	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	200	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	587	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	678	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	682	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	703	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	706	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	740	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	743	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	746	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	749	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	781	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	784	4.0	+	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	815	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	823	4.0	-	Petroselinum hortense	
+PlantCARE_11551	Unnamed__4	CTCC	827	4.0	-	Petroselinum hortense	
+PlantCARE_11551	I-box	cCATATCCAAT	575	10.0	+	Flaveria trinervia	part of a light responsive element
+PlantCARE_11551	Myb	TAACTG	332	6.0	-	Arabidopsis thaliana	
+PlantCARE_11551	DRE core	GCCGAC	444	6.0	-	Arabidopsis thaliana	
+PlantCARE_11551	DRE core	GCCGAC	757	6.0	-	Arabidopsis thaliana	
+PlantCARE_11551	TGACG-motif	TGACG	129	5.0	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	TGACG-motif	TGACG	154	5.0	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	TGACG-motif	TGACG	384	5.0	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	Gap-box	CAAATGAA(A/G)A	243	9.5	-	Arabidopsis thaliana	part of a light responsive element
+PlantCARE_11551	CGTCA-motif	CGTCA	129	5.0	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	CGTCA-motif	CGTCA	154	5.0	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	CGTCA-motif	CGTCA	384	5.0	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_11551	Sp1	GGGCGG	855	6.0	+	Oryza sativa	light responsive element
+PlantCARE_11551	G-box	CACGTC	150	6.0	-	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_11551	G-box	CACGAC	342	6.0	+	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_11551	MYC	CATGTG	36	6.0	-	Arabidopsis thaliana	
+PlantCARE_11551	MYC	CATTTG	247	6.0	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	129	5.0	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	154	5.0	+	Arabidopsis thaliana	
+PlantCARE_11551	as-1	TGACG	384	5.0	+	Arabidopsis thaliana	
+PlantCARE_11551	CCGTCC motif	CCGTCC	429	6.0	-	Nicotiana tabacum	
+PlantCARE_11551		motif_sequence	308	4.0	-	organism	short_function
+PlantCARE_11551		motif_sequence	359	4.0	-	organism	short_function
+PlantCARE_11551		motif_sequence	468	4.0	-	organism	short_function
+PlantCARE_11551		motif_sequence	496	4.0	+	organism	short_function
+PlantCARE_11551		motif_sequence	698	4.0	+	organism	short_function
+PlantCARE_11551		motif_sequence	797	4.0	-	organism	short_function
+PlantCARE_11551		motif_sequence	827	4.0	-	organism	short_function
+PlantCARE_11551		motif_sequence	887	4.0	-	organism	short_function
+PlantCARE_11551	TGA-box	TGACGTAA	129	8.0	+	Glycine max	part of an auxin-responsive element
+PlantCARE_11551	CCGTCC-box	CCGTCC	429	6.0	-	Petroselinum hortense	
+PlantCARE_11551	CAT-box	GCCACT	396	6.0	-	Arabidopsis thaliana	cis-acting regulatory element related to meristem expression
+PlantCARE_11551	TATA-box	TATATA	77	6.0	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	ATATAA	78	6.0	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	TATA	79	4.0	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	TATA-box	TATA	195	4.0	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_11551	ABRE	ACGTG	151	5.0	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_11551	ABRE	GCCGCGTGGC	802	9.0	-	Oryza sativa	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_11551	TCCC-motif	TCTCCCT	825	7.0	-	Spinacia oleracea	part of a light responsive element
+PlantCARE_11551	STRE	AGGGG	684	5.0	+	Arabidopsis thaliana	
+PlantCARE_11551	STRE	AGGGG	719	5.0	-	Arabidopsis thaliana	
+PlantCARE_11551	AT~TATA-box	TATATA	77	6.0	+	Arabidopsis thaliana	
+PlantCARE_11551	Unnamed__1	CGTGG	341	5.0	-	Zea mays	
+PlantCARE_11551	Unnamed__1	CGTGG	811	5.0	-	Zea mays	
+PlantCARE_11551	W box	TTGACC	250	6.0	+	Arabidopsis thaliana	
+PlantCARE_11551	A-box	CCGTCC	429	6.0	-	Petroselinum crispum	cis-acting regulatory element
